@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-IB_DESIGNABLE
+//IB_DESIGNABLE
 @interface WZZBaseView : UIView
 
 @property (nonatomic, assign) IBInspectable BOOL 切割图层;

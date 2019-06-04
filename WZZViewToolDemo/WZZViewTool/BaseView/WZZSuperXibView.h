@@ -10,7 +10,7 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-IB_DESIGNABLE
+//IB_DESIGNABLE
 @interface WZZSuperXibView : UIView
 
 @property (nonatomic, strong) IBOutlet UIView * wzz_xibView;

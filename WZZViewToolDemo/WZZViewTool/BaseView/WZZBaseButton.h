@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-IB_DESIGNABLE
+//IB_DESIGNABLE
 @interface WZZBaseButton : UIButton
 
 #pragma mark - 继承WZZBaseView

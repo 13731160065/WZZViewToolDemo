@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-IB_DESIGNABLE
+//IB_DESIGNABLE
 @interface WZZBaseLabel : UILabel
 
 #pragma mark - 继承WZZBaseView
